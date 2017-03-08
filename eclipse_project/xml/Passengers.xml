@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passengers>
+	<passenger>
+		<firstname>Jane</firstname>
+		<lastname>Smith</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>John</firstname>>
+		<lastname>Smith</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>Jane</firstname>
+		<lastname>Doe</lastname>
+		<class>First</class>
+	</passenger>
+	<passenger>
+		<firstname>John</firstname>
+		<lastname>Doe</lastname>
+		<class>Economy</class>
+	</passenger>
+	<passenger>
+		<firstname>Sundar</firstname>
+		<lastname>Pichai</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>Bill</firstname>>
+		<lastname>Gates</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>Arnold</firstname>
+		<lastname>Schwarzenegger</lastname>
+		<class>First</class>
+	</passenger>
+	<passenger>
+		<firstname>Bharath</firstname>
+		<lastname>Thippireddy</lastname>
+		<class>Economy</class>
+	</passenger>
+</passengers>
